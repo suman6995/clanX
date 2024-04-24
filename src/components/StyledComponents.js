@@ -33,7 +33,7 @@ export const CustomColumn3 = styled.div`
   }
   img {
     height: 180px;
-    width: 1580px;
+    width: 180px;
   }
   h1 {
     margin: 4px;
