@@ -5,11 +5,12 @@ export const CustomColumnContainer = styled.div`
   flex-direction: row;
   justify-content: space-between;
   background: #d6d7da;
+  height: 100vh;
 `;
 export const CustomColumn3 = styled.div`
   width: 25%;
   background: white;
-  margin: 24px 0 40px 40px;
+  margin: 36px 0 40px 40px;
   border-radius: 40px 0 0 40px;
   div {
     display: flex;
@@ -31,8 +32,8 @@ export const CustomColumn3 = styled.div`
     padding: 8px;
   }
   img {
-    height: 150px;
-    width: 150px;
+    height: 180px;
+    width: 1580px;
   }
   h1 {
     margin: 4px;
@@ -67,7 +68,7 @@ export const CloudContainer = styled.p`
   }
 `;
 export const ImageContainer = styled.div`
-  margin: 14px 14px 30px 14px !important;
+  margin: 14px 14px 24px 14px !important;
   text-align: left;
   width: 80% !important;
   position: relative;
@@ -98,7 +99,7 @@ export const ImageContainer = styled.div`
 export const CustomColumn9 = styled.div`
   width: 75%;
   background: #f6f6f8;
-  margin: 24px 40px 40px 0px;
+  margin: 36px 40px 40px 0px;
   border-radius: 0px 40px 40px 0px;
 `;
 export const TopContainer = styled.div`
